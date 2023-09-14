@@ -5,7 +5,7 @@ Familiar with Dart, flutter,JAVA, Firebase, Maps, Google Services, Live Video St
 
 Furthermore, I have created few responsive websites like admin panel , marketing page and my own portfolio.
 
-Here are the some of app links on which I have created.
+Here are the some of app links, which I have created.
 
 - [Bio Tech](https://play.google.com/store/apps/details?id=com.biotech.biotechvision)
 
