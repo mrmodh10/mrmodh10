@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a **flutter developer** with **3.5+** years of experience,
+I'm a **flutter developer** with **5+** years of experience,
 Familiar with Dart, flutter,JAVA, Firebase, Maps, Google Services, Live Video Streaming, Live Chat, Third-Party Lib Implementation, Bloc pattern, getx state management, UI Design, Bug solve, Modules REST API, DATABASE,Socket,Social Logins, Background Services, Live video Call.
 
 Furthermore, I have created few responsive websites like admin panel , marketing page and my own portfolio.
